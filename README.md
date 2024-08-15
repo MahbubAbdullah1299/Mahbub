@@ -1,4 +1,4 @@
-![I am Mahbub](https://github.com/MahbubAbdullah1299/Mahbub/blob/main/Programmer%20.jpg))
+![I am Mahbub](https://github.com/MahbubAbdullah1299/Mahbub/blob/main/Programmer%20.jpg)
 
 
 <h1 align="center">Hi 👋, I'm Mahbub Abdullah </h1>
