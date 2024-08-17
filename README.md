@@ -1,7 +1,7 @@
 ![I am Mahbub](https://github.com/MahbubAbdullah1299/Mahbub/blob/main/Programmer%20.jpg)
 
 
-<h1 align="center">Hi 👋, I'm Mahbub Abdullah </h1>
+<h1 align="center">Hi 👋, I'm Mahbub Abdullah</h1>
 <h3 align="center">Programmer | Web Designer | Content Creator | Speed Learner</h3>
 <h4 align="center"> Programmer</h4>
 
@@ -69,13 +69,13 @@ Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 ## Github Stats -
 
 <p align="center">
-  <a href="https://github.com/Mahbub Abdullah">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mahbub Abdullah&theme=radical" alt="Mahbub Abdullah's Git Hub Contribution"/>
+  <a href="https://github.com/Mahbub">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mahbub&theme=radical" alt="Mahbub's Git Hub Contribution"/>
   </a>
 </p>
 <a> 
     <a href="https://github.com/Mahbub"><img alt="Mahbub's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Mahbub&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/Mahbub"><img alt="Mahbub's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Mahbub Abdullah&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/Mahbub"><img alt="Mahbub's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Mahbub&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 
 <br/><br/>
