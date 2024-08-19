@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Mahbub Abdullah</h1>
-<h3 align="center">Programmer | Web Designer | Content Creator | Speed Learner</h3>
+<h3 align="center">Programmer | Web Designer </h3>
 <h4 align="center"> Programmer</h4>
 
 <div align="center">
@@ -13,7 +13,7 @@ Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 
 </div>
 
-- 🔭 I’m currently working on [Hablu Programmer](https://www.hablu-programmer.com/)
+- 🔭 I’m currently Learning With [Hablu Programmer](https://www.hablu-programmer.com/)
 - 🌱 I’m currently learning Golang, Java, C++
 - 👨‍💻 All of my projects are available at [https://github.com/Mahbub](https://github.com/Mahbub)
 - 💬 Ask me about **HTML5, CSS3, JS, Bootstrap**
